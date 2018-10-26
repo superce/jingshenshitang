@@ -1,0 +1,46 @@
+.pub{
+  width: 18rem;
+  margin: 1rem auto;
+}
+
+.pub .con h4 {
+  font-size: .9rem;
+  color: #333;
+  margin-bottom: .5rem;
+}
+.pub .con{
+  margin-top: .5rem;
+}
+.pub .con p {
+  font-size: .7rem;
+  color: #ccc;
+  margin: .5rem 0;
+}
+.pub .con img {
+  width: 100%;
+}
+.pub .con video{
+  width:100%;
+}
+.pub .logo {
+  display: flex;
+}
+
+.pub .logo img {
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 50%;
+}
+.pub .logo .name{
+  margin-left: .5rem;
+}
+.pub .logo .name p {
+  font-size: .6rem;
+  color: #333;
+  line-height: .5rem;
+}
+
+.pub .logo .name span {
+  font-size: .6rem;
+  color: #ccc;
+}
